@@ -1,0 +1,1 @@
+This is my first multipage website as a part of The Odin Project's Foundations class. The goal is to create a barebones copy of a recipe book with a few of my favorite recipe choices (borrowed from other sites) without those annoying blog entries. This project will go through multiple iterations once CSS and possibly Javascript are introduced.
